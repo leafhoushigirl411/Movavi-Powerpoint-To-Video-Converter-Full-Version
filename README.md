@@ -239,3 +239,6 @@ This repository serves as the official landing page for Movavi PowerPoint to Vid
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Movavi PowerPoint to Video Converter today!**
+
+---
+**Last updated:** 2026-09-11 07:09:46 UTC
