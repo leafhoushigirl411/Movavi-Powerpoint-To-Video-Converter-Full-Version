@@ -241,4 +241,4 @@ This repository serves as the official landing page for Movavi PowerPoint to Vid
 **Get the most recent version of Movavi PowerPoint to Video Converter today!**
 
 ---
-**Last updated:** 2026-10-17 16:14:06 UTC
+**Last updated:** 2026-10-17 19:07:39 UTC
